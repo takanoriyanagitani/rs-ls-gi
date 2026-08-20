@@ -3,6 +3,13 @@ name = "rs-ls-gi"
 version = "0.1.0"
 edition = "2024"
 
+description = "Simple ls which respects .gitignore"
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-ls-gi"
+homepage = "https://github.com/takanoriyanagitani/rs-ls-gi"
+documentation = "https://docs.rs/rs-ls-gi/latest"
+keywords = ["ls", "ltsv", "gitignore", "hidden", "cli"]
+
 exclude = [
 ]
 
